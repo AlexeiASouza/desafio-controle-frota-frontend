@@ -9,6 +9,7 @@ const HomePage = () => {
         As regras de negócio são definidas no backend, arquivo:
         EntregaControllers.jsx, onde as entregas são criadas
       </p>
+      <p>Busque pela frota de nome "Alexei" para ver o exeplo já criado!</p>
       <CleanDatabase />
     </div>
   );
