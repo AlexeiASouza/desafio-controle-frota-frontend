@@ -1,0 +1,22 @@
+.entrega-manager-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.entrega-manager {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cadastrar-entrega,
+.finalizar-entrega {
+    margin: 10px;
+}
+
+.entrega-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

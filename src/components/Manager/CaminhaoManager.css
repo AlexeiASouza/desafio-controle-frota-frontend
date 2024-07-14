@@ -1,0 +1,11 @@
+.caminhao-manager-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.cadastrar-caminhao,
+.deletar-caminhao {
+    margin: 10px;
+}
